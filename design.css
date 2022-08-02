@@ -70,6 +70,10 @@ body {
     text-align: center;
 }
 
+img {
+    display: block;
+}
+
 .img {
     position: relative;
 }
